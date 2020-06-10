@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/module5/homework/ExamSystemClient/ExamSystemClient.iml" filepath="$PROJECT_DIR$/module5/homework/ExamSystemClient/ExamSystemClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module5/homework/ExamSystemServer/ExamSystemServer.iml" filepath="$PROJECT_DIR$/module5/homework/ExamSystemServer/ExamSystemServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module5/homework/homework.iml" filepath="$PROJECT_DIR$/module5/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java9-01/java9-01.iml" filepath="$PROJECT_DIR$/java9-01/java9-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java9-02/java9-02.iml" filepath="$PROJECT_DIR$/java9-02/java9-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/module2.iml" filepath="$PROJECT_DIR$/module2/module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module3/module3.iml" filepath="$PROJECT_DIR$/module3/module3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module4/module4.iml" filepath="$PROJECT_DIR$/module4/module4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module5/module5.iml" filepath="$PROJECT_DIR$/module5/module5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/拉勾网Java基础班.iml" filepath="$PROJECT_DIR$/拉勾网Java基础班.iml" />
+    </modules>
+  </component>
+</project>
