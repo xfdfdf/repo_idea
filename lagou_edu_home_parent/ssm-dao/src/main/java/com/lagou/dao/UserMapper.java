@@ -54,6 +54,18 @@ public interface UserMapper {
     public List<Resource> findResourceByRoleId(List<Integer> ids);
    
     public List<Resource> findResourceByRoleId2(List<Integer> ids);
+    
+    public void mytest1();
+    public void mytest2();
+    public void mytest3();
+    public void mytest4();
+    public void mytest5();
+    public void mytest6();
+    public void mytest7();
+    public void mytest8();
+    public void mytest9();
+    public void mytest10();
+    public void mytest11();
 
 
 }
